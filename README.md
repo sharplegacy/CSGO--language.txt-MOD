@@ -9,6 +9,6 @@ Steam\SteamApps\Common\Counter-Strike Global Offensive\csgo\resource <--
 4. Restart your game
 
 Not working? Make sure that:
-* csgo_bananagaming.txt is placed in the right folder (it needs to be inside the resource folder)
+* csgo_legacymod.txt is placed in the right folder (it needs to be inside the resource folder)
 * Launch options spelled correctly, this is an example how it can look in launch options:
--novid -language bananagaming -tickrate 128 -nojoy
+-novid -language legacymod -tickrate 128 -nojoy
